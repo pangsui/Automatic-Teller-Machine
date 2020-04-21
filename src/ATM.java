@@ -26,7 +26,7 @@ public class ATM {
 		bankDatabase = new BankDatabase();
 	}//end no argument constructor
 	
-	//start ATM
+	//start ATM.This is the first method that will be called
 	public void start() {
 		
 		//welcome and authenticate user and perform transaction
